@@ -2,7 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/sofar.jpg
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2022/sofar.jpg
+file_size: 56135
 file_type: image/jpeg
 image_metadata:
   caption: "SOFAR float trajectories (green worms) and horizontal velocity measured\

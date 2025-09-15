@@ -54,8 +54,9 @@
     "website": "res-12-001-topics-in-fluid-dynamics-fall-2021"
   },
   "learning_resource_types": [
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "aabf2146-ccd2-49ad-ae6d-17d900971754",
-  "site_short_id": "res.12-001-fall-2021"
+  "site_short_id": "res.12-001-fall-2021",
+  "site_url_path": "courses/res-12-001-topics-in-fluid-dynamics-spring-2022"
 }
