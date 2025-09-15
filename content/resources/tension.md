@@ -2,7 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/tension.jpg
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2022/tension.jpg
+file_size: 166938
 file_type: image/jpeg
 image_metadata:
   caption: "The tension in the line of a simple pendulum computed by a model for 16\

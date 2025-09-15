@@ -2,7 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/dispersion.jpg
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2022/dispersion.jpg
+file_size: 214656
 file_type: image/jpeg
 image_metadata:
   caption: The dispersion relation for plane waves supported by the rotating, shallow

@@ -2,7 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/mitres_12_001_act_p3.pdf
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2022/mitres_12_001_act_p3.pdf
+file_size: 6623641
 file_type: application/pdf
 image_metadata:
   caption: ''
