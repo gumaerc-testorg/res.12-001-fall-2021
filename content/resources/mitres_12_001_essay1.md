@@ -2,7 +2,8 @@
 content_type: resource
 description: ''
 draft: ''
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/mitres_12_001_essay1.pdf
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2022/mitres_12_001_essay1.pdf
+file_size: 1623501
 file_type: application/pdf
 image_metadata:
   caption: ''

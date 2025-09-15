@@ -2,7 +2,8 @@
 content_type: resource
 description: ''
 draft: ''
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/igwaves_beta.mpg
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2022/igwaves_beta.mpg
+file_size: 637371
 file_type: video/mpeg
 image_metadata:
   caption: ''

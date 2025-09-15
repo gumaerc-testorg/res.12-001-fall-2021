@@ -2,7 +2,8 @@
 content_type: resource
 description: ''
 draft: ''
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/gwavemovie.m
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2022/gwavemovie.m
+file_size: 2526
 file_type: text/x-objcsrc
 image_metadata:
   caption: ''

@@ -2,7 +2,8 @@
 content_type: resource
 description: ''
 draft: ''
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/ga2d_eta_lat0.mpg
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2022/ga2d_eta_lat0.mpg
+file_size: 441851
 file_type: video/mpeg
 image_metadata:
   caption: ''

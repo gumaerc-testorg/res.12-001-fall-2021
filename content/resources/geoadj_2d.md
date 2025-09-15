@@ -2,7 +2,8 @@
 content_type: resource
 description: ''
 draft: ''
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2022/geoadj_2d.for
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2022/geoadj_2d.for
+file_size: 62113
 file_type: application/octet-stream
 image_metadata:
   caption: ''
